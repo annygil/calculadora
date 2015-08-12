@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author ubitica-01 Anny Gil  123456
+ * @author ubitica-01 
  */
 public class MainTest {
     
